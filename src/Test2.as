@@ -1,6 +1,5 @@
 package
 {
-	import flash.display.Bitmap;
 	import flash.display.Sprite;
 	import flash.utils.getDefinitionByName;
 	import flash.utils.getQualifiedClassName;
